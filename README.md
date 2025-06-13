@@ -1,1 +1,1 @@
-# Brain_Tumor-Detection-Using-Deep-Learning
+# Brain-Tumor-Segmentation-6th-Sem
