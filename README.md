@@ -1,1 +1,1 @@
-# Brain-Tumor-Segmentation-6th-Sem
+# Brain-Tumor-Segmentation
