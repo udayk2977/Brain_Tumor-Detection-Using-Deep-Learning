@@ -78,7 +78,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ## Research Paper
 
-![Model Architecture](Research_paper) 
+![Research_Paper](Research_Paper.pdf) 
 
 ##  How to Run
 
