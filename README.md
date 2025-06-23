@@ -17,7 +17,7 @@ This end-to-end framework is designed to address key challenges such as heteroge
 
 ## 🧠 Architecture
 
-![Model Architecture](path/to/architecture.jpg) <!-- Replace with actual path if you upload image -->
+![Model Architecture](architecture.jpg) <!-- Replace with actual path if you upload image -->
 
 The pipeline includes:
 
