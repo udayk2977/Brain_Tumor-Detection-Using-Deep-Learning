@@ -29,7 +29,7 @@ The pipeline includes:
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 
 - **BraTS 2020** (369 training + 125 validation cases)
 - **Figshare D1–D4** (3064 slices across multiple tumor types)
