@@ -76,6 +76,10 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
+## Research Paper
+
+![Model Architecture](Research_paper) 
+
 ##  How to Run
 
 1. Clone the repo:
