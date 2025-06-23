@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation using Hybrid Deep Learning Model
 
-## 🔬 Overview
+##  Overview
 
 Brain tumor segmentation is a critical task in medical image analysis, playing a pivotal role in diagnosis, treatment planning, and monitoring. This repository presents a **hybrid deep learning framework** that combines the strengths of multiple state-of-the-art architectures to enhance segmentation performance on multi-modal MRI data.
 
@@ -15,7 +15,7 @@ This end-to-end framework is designed to address key challenges such as heteroge
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 ![Model Architecture](architecture.jpg) <!-- Replace with actual path if you upload image -->
 
@@ -38,7 +38,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
-## ⚙️ Preprocessing
+##  Preprocessing
 
 - Resizing all images to **128×128**
 - Normalization to **[0,1]**
@@ -47,7 +47,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
-## 🏗️ Model Components
+##  Model Components
 
 | Component         | Purpose                                      |
 |------------------|----------------------------------------------|
@@ -58,7 +58,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
-## 🧪 Evaluation Metrics
+##  Evaluation Metrics
 
 - **Dice Similarity Coefficient (DSC)**: ≥ 0.94 on Figshare D2
 - **IoU (Jaccard Index)**: ≥ 0.85
@@ -66,7 +66,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
-## 📈 Results
+## Results
 
 | Model Variant                       | Dataset       | Dice Score |
 |------------------------------------|---------------|------------|
@@ -76,7 +76,7 @@ MRI modalities used: FLAIR, T1c, T2
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
